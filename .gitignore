@@ -1,0 +1,9 @@
+# secrets
+.env
+
+# build output
+applyloop
+/applyloop.exe
+
+# pipeline output (applyloop writes <file>.applied by default)
+*.applied
